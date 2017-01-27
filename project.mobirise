@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Gallery.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -88,7 +88,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -288,7 +288,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-128x128-16.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -390,7 +390,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-128x128-16.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
