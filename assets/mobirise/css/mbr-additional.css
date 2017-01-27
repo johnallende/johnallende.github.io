@@ -9,7 +9,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -489,13 +488,6 @@ h6,
   color: #ffffff;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-}
-#social-buttons4-f .mbr-section-title,
-#social-buttons4-f .btn-social {
-  color: #fff;
-}
-#social-buttons4-f .mbr-section-title {
-  font-family: 'Bitter', serif;
 }
 
 #ext_menu-2 .hide-buttons .nav-btn {
