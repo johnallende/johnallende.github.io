@@ -442,6 +442,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fixed-for-gallery-11-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fixed-for-gallery-11-2000x2000.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fixed-for-gallery-12-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fixed-for-gallery-12-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
