@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Gallery.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -251,7 +251,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fixed-for-gallery-9-2000x2855-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fixed-for-gallery-9-2000x2855.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Illustrator",
@@ -324,34 +324,14 @@
                 "active": false
               },
               {
-                "tags": "Photoshop",
+                "tags": "Illustrator",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fixed-for-gallery-10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fixed-for-gallery-10-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Photoshop",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Photoshop",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
