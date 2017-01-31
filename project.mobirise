@@ -186,14 +186,18 @@
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "<p>\"He smells good\"</p>",
+              "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\">\"He smells good\"</span><br></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x120.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
               "authorName": "Pedro Rodriguez",
@@ -203,11 +207,15 @@
               "text": "<p>\"His hair is pretty A1 not gonna lie\"</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
               "authorName": "Ronaldo Suarez",
@@ -217,11 +225,15 @@
               "text": "\"I call him little buddy even though he's taller than me\"",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mbr-1-160x106.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
               "authorName": "Kevin Lima",
