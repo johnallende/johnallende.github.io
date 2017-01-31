@@ -729,6 +729,15 @@ h6,
 
 
 
+
+#header3-y .mbr-section-title,
+#header3-y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-y H3 {
+  color: #000000;
+  font-family: 'Bitter', serif;
+}
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -795,4 +804,7 @@ h6,
 }
 #ext_menu-u .btn {
   font-family: 'Bitter', serif;
+}
+#image1-w DIV {
+  text-align: center;
 }

@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 33,
+    "uniqCompNum": 35,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -751,6 +751,31 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "INDUSTRY CERTIFICATION",
+          "meta": ""
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -873,7 +898,12 @@
           "_params": {
             "showText": false
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
