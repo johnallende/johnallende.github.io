@@ -16,6 +16,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -433,6 +436,21 @@ h6,
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
+#features4-14 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-14 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-14 P {
+  text-align: left;
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+}
+#features4-14 H4 {
+  color: #000000;
+}
 #header3-11 .mbr-section-title,
 #header3-11 .mbr-section-subtitle {
   text-align: center;
@@ -466,11 +484,11 @@ h6,
   font-family: 'Bitter', serif;
 }
 #ext_menu-r .link {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 #ext_menu-r .dropdown-item,
 #ext_menu-r .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.866rem;
 }
 #ext_menu-r .link:hover,
 #ext_menu-r .dropdown-item:hover,
@@ -512,21 +530,18 @@ h6,
 #ext_menu-r .btn {
   font-family: 'Bitter', serif;
 }
-#testimonials2-z .mbr-section-title {
+#contacts1-13 P {
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#contacts1-13 STRONG {
   color: #000000;
   font-family: 'Bitter', serif;
+  text-align: left;
 }
-#testimonials2-z .card-block P {
-  color: #000000;
-}
-#testimonials2-z .card-footer > small {
-  color: #000000;
-}
-#testimonials2-z .card-footer > div {
-  color: #000000;
-}
-#testimonials2-z .card-block {
-  color: #000000;
+#contacts1-13 B {
+  font-family: 'Bitter', serif;
 }
 #social-buttons2-m .mbr-section-title,
 #social-buttons2-m .btn-social {
@@ -561,11 +576,11 @@ h6,
   font-family: 'Bitter', serif;
 }
 #ext_menu-r .link {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 #ext_menu-r .dropdown-item,
 #ext_menu-r .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.866rem;
 }
 #ext_menu-r .link:hover,
 #ext_menu-r .dropdown-item:hover,
@@ -631,11 +646,11 @@ h6,
   font-family: 'Bitter', serif;
 }
 #ext_menu-r .link {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 #ext_menu-r .dropdown-item,
 #ext_menu-r .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.866rem;
 }
 #ext_menu-r .link:hover,
 #ext_menu-r .dropdown-item:hover,
@@ -710,11 +725,11 @@ h6,
   font-family: 'Bitter', serif;
 }
 #ext_menu-u .link {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 #ext_menu-u .dropdown-item,
 #ext_menu-u .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.866rem;
 }
 #ext_menu-u .link:hover,
 #ext_menu-u .dropdown-item:hover,
@@ -784,11 +799,11 @@ h6,
   font-family: 'Bitter', serif;
 }
 #ext_menu-s .link {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 #ext_menu-s .dropdown-item,
 #ext_menu-s .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.866rem;
 }
 #ext_menu-s .link:hover,
 #ext_menu-s .dropdown-item:hover,
