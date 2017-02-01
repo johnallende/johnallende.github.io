@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -429,6 +432,18 @@ h6,
   color: #ffffff;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+}
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-11 H3 {
+  color: #000000;
+  font-family: 'Bitter', serif;
+}
+#header3-11 SMALL {
+  color: #232323;
+  font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;

@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 36,
+    "uniqCompNum": 38,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -78,6 +78,36 @@
           "title": "WELCOME",
           "text": "Basically a digtal designer...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "SMALL": {
+              "color": "#232323",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "BIOGRAPHY",
+          "meta": "This is a&nbsp;temporary biography that will be replaced shortly, Please hold..."
         },
         {
           "_inherit": "menu",
@@ -184,6 +214,25 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".card-block P": {
+              "color": "#000000"
+            },
+            ".card-footer > small": {
+              "color": "#000000"
+            },
+            ".card-footer > div": {
+              "color": "#000000"
+            },
+            ".card-block": {
+              "color": "#000000"
+            }
+          },
           "testimonial": [
             {
               "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\">\"He smells good\"</span><br></p>",
@@ -245,6 +294,9 @@
             "count": 3,
             "paddingTop": "3",
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -254,32 +306,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "REFERENCES",
-          "subtitle": "",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            },
-            ".card-block P": {
-              "color": "#000000"
-            },
-            ".card-footer > small": {
-              "color": "#000000"
-            },
-            ".card-footer > div": {
-              "color": "#000000"
-            },
-            ".card-block": {
-              "color": "#000000"
-            }
-          }
+          "subtitle": ""
         },
         {
           "_styles": {
@@ -809,6 +839,11 @@
             "Theme"
           ],
           "_name": "image1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "image1-w",
           "media": {
             "image": {
@@ -827,12 +862,7 @@
           "_params": {
             "showText": false
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_styles": {
-            "DIV": {
-              "text-align": "center"
-            }
-          }
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
@@ -947,6 +977,19 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "form1-t",
           "_params": {
             "labelsColor": "#232323",
@@ -992,20 +1035,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "color": "#000000",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         }
       ]
     }
