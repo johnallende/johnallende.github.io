@@ -163,18 +163,18 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "image-gallery",
+              "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": "76",
+              "size": "60",
               "color": "black",
               "newWindow": false
             }
           },
-          "title3": "Photography",
+          "title3": "Travel | Exploration",
           "subtitle3": "",
-          "caption3": "Watching films has been apart of my life since the early years&nbsp;",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
