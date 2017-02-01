@@ -68,7 +68,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -357,6 +357,24 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left"
+            },
+            "STRONG": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
           "_anchor": "contacts1-13",
           "_params": {
             "paddingTop": 3,
@@ -388,25 +406,7 @@
           },
           "text1": "<strong>Address:&nbsp;</strong>3052 sw 151 ct 33185",
           "text2": "<strong>Contacts:&nbsp;</strong>Phone: 786-372-1330 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Email:&nbsp;</b>jallende@miamiartsstudio.com<br>",
-          "text3": "",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "left"
-            },
-            "STRONG": {
-              "color": "#000000",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "text-align": "left"
-            },
-            "B": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            }
-          }
+          "text3": ""
         },
         {
           "_styles": {
