@@ -1,15 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
-
-
-
-
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -436,33 +430,6 @@ h6,
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
-#features4-14 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-14 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#features4-14 P {
-  text-align: left;
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
-}
-#features4-14 H4 {
-  color: #000000;
-}
-#header3-11 .mbr-section-title,
-#header3-11 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-11 H3 {
-  color: #000000;
-  font-family: 'Bitter', serif;
-}
-#header3-11 SMALL {
-  color: #232323;
-  font-family: 'Oxygen', sans-serif;
-}
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -530,18 +497,11 @@ h6,
 #ext_menu-r .btn {
   font-family: 'Bitter', serif;
 }
-#contacts1-13 P {
+#contacts1-18 P {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
-  text-align: left;
 }
-#contacts1-13 STRONG {
+#contacts1-18 STRONG {
   color: #000000;
-  font-family: 'Bitter', serif;
-  text-align: left;
-}
-#contacts1-13 B {
-  font-family: 'Bitter', serif;
 }
 #social-buttons2-m .mbr-section-title,
 #social-buttons2-m .btn-social {
@@ -555,6 +515,22 @@ h6,
 
 
 
+
+
+
+
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17 H3 {
+  color: #000000;
+  font-family: 'Bitter', serif;
+}
+#header3-17 SMALL {
+  color: #232323;
+  font-family: 'Oxygen', sans-serif;
+}
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -621,6 +597,37 @@ h6,
 }
 #ext_menu-r .btn {
   font-family: 'Bitter', serif;
+}
+#testimonials2-15 .mbr-section-title {
+  color: #000000;
+  font-family: 'Bitter', serif;
+}
+#testimonials2-15 .card-block P {
+  color: #000000;
+}
+#testimonials2-15 .card-footer > small {
+  color: #000000;
+}
+#testimonials2-15 .card-footer > div {
+  color: #000000;
+}
+#testimonials2-15 .card-block {
+  color: #000000;
+}
+#features4-16 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-16 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-16 P {
+  text-align: left;
+  color: #000000;
+  font-family: 'Oxygen', sans-serif;
+}
+#features4-16 H4 {
+  color: #000000;
 }
 
 
