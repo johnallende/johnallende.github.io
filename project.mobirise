@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Reference.html",
+    "currentPage": "intro.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -393,108 +393,6 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">JOHN ALLENDE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\">CREDENTIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reference.html\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/u0ak2nl1g5o6l5y/Resume.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>RESUME DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            },
-            ".card-block P": {
-              "color": "#000000"
-            },
-            ".card-footer > small": {
-              "color": "#000000"
-            },
-            ".card-footer > div": {
-              "color": "#000000"
-            },
-            ".card-block": {
-              "color": "#000000"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\">\"He smells good\"</span><br></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-160x120.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Pedro Rodriguez",
-              "authorBio": "Toasty Boy"
-            },
-            {
-              "text": "<p>\"His hair is pretty A1 not gonna lie\"</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Ronaldo Suarez",
-              "authorBio": "Inhuman Reactions"
-            },
-            {
-              "text": "\"I call him little buddy even though he's taller than me\"",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-1-160x106.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Kevin Lima",
-              "authorBio": "Biggest Fan"
-            }
-          ],
-          "_anchor": "testimonials2-15",
-          "_params": {
-            "count": 3,
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
-          },
-          "title": "REFERENCES",
-          "subtitle": ""
         },
         {
           "_styles": {
@@ -890,7 +788,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">JOHN ALLENDE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-z\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\">CREDENTIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/u0ak2nl1g5o6l5y/Resume.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>RESUME DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\">CREDENTIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reference.html\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/u0ak2nl1g5o6l5y/Resume.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>RESUME DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1162,7 +1060,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">JOHN ALLENDE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-z\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\">CREDENTIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/u0ak2nl1g5o6l5y/Resume.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>RESUME DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\">CREDENTIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reference.html\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/u0ak2nl1g5o6l5y/Resume.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>RESUME DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME DOWNLOAD</a></li>"
         },
         {
           "_tags": [
