@@ -710,6 +710,7 @@ h6,
 #header3-y H3 {
   color: #000000;
   font-family: 'Bitter', serif;
+  font-size: 46px;
 }
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
@@ -860,5 +861,98 @@ h6,
   font-family: 'Bitter', serif;
 }
 #form1-t .mbr-section-title {
+  color: #000000;
+}
+
+
+
+
+#testimonials2-1b .mbr-section-title {
+  color: #000000;
+  font-family: 'Bitter', serif;
+}
+#testimonials2-1b .card-block P {
+  color: #000000;
+}
+#testimonials2-1b .card-footer > small {
+  color: #000000;
+}
+#testimonials2-1b .card-footer > div {
+  color: #000000;
+}
+#testimonials2-1b .card-block {
+  color: #000000;
+}
+#ext_menu-19 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-19 .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Bitter', serif;
+}
+#ext_menu-19 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-19 .close-icon::before,
+#ext_menu-19 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-19 .link,
+#ext_menu-19 .dropdown-item {
+  color: #000000;
+  font-family: 'Bitter', serif;
+}
+#ext_menu-19 .link {
+  font-size: 0.8rem;
+}
+#ext_menu-19 .dropdown-item,
+#ext_menu-19 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-19 .link:hover,
+#ext_menu-19 .dropdown-item:hover,
+#ext_menu-19 .link:focus,
+#ext_menu-19 .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-19 .link[aria-expanded="true"],
+#ext_menu-19 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-19 .nav-dropdown-sm .link:focus,
+#ext_menu-19 .nav-dropdown-sm .link:hover,
+#ext_menu-19 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-19 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-19 .navbar,
+#ext_menu-19 .nav-dropdown-sm,
+#ext_menu-19 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-19 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-19 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-19 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-19 .bg-color.transparent.opened .link:hover,
+#ext_menu-19 .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-19 .link[aria-expanded="true"],
+#ext_menu-19 .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#ext_menu-19 .btn {
+  font-family: 'Bitter', serif;
+}
+#contacts1-1a P {
+  color: #000000;
+}
+#contacts1-1a STRONG {
   color: #000000;
 }
