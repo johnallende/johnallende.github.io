@@ -874,7 +874,7 @@
               "link": "johnallende.github.io/Discuss IT Topic 6.pdf",
               "size": 0,
               "color": "#ffffff",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title3": "Discuss It",
