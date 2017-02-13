@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Gallery.html",
+    "currentPage": "credentials.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1036,7 +1036,7 @@
               "color": "#000000",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_tags": [
