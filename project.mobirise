@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Gallery.html",
+    "currentPage": "intro.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -292,7 +292,7 @@
             "showMeta": true
           },
           "title": "GET TO KNOW ME",
-          "meta": "This is a&nbsp;temporary biography that will be replaced shortly, Please hold..."
+          "meta": "It pretty much all started early in life, as a younger child I found \nenjoyment in watching the same movies and playing the same games \nover and over again. Each time I would watch the same film I tried to \nlook at specific details that I might have not caught the time prier and \nevery time I played the same game I tried different routes to discover \ndifferent content. I was becoming a very observant and curious \ncharacter. Over a short period of time i realized that design and \nart were two major components that interested and spark my attention. Over a short period of time i realized that design and \nlooking at specific details that I might have not caught the time prier... (continue)&nbsp;"
         },
         {
           "_inherit": "menu",
@@ -504,9 +504,9 @@
               "newWindow": false
             }
           },
-          "title4": "Better my health",
+          "title4": "Better my Health",
           "subtitle4": "",
-          "caption4": "For my own well being I'd like to become physically and mentally fit. Keeping a healthy body is important to living a long and enjoyable life. My plan to achieve this is to work out my body by doing consistant exercise and living on a healthy diet. (use it or lose it) I believe that if I live my life behind a screen I'll just be wasting my time letting my body become brittle and potentially de",
+          "caption4": "For my own well being I'd like to become physically and mentally fit. Keeping a healthy body is important to living a long and enjoyable life. My plan to achieve this is to work out my body by doing consistant exercise and living on a healthy diet. (use it or lose it) I believe that if I live my life behind a screen I'll just be wasting my time letting my body become brittle and potentially deteriorate way, right before my eyes.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
