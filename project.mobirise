@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Gallery.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -871,7 +871,7 @@
               "name": "file",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://www.dropbox.com/s/0b53fa0duo2dhqd/Discuss%20IT%20Topic%206.docx?dl=1",
+              "link": "johnallende.github.io/Discuss IT Topic 6.pdf",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
