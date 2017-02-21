@@ -753,6 +753,9 @@ h6,
 #features4-1f P {
   font-family: 'Ubuntu', sans-serif;
 }
+#header4-1i .mbr-section-title {
+  text-align: center;
+}
 #contacts5-1h p,
 #contacts5-1h .list-group-text,
 #contacts5-1h .form-control-label {
