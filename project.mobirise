@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "credentials.html",
+    "currentPage": "Reference.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1280.png",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -261,7 +261,7 @@
     },
     "intro.html": {
       "settings": {
-        "title": "John Allende"
+        "title": "Biography"
       },
       "components": [
         {
@@ -1267,7 +1267,7 @@
     },
     "credentials.html": {
       "settings": {
-        "title": "ILLUSTRATOR",
+        "title": "Illustrator",
         "meta_descr": "Web Site Generator Description"
       },
       "components": [
@@ -1431,7 +1431,7 @@
     },
     "Reference.html": {
       "settings": {
-        "title": "Website Builder Title",
+        "title": "Reference",
         "meta_descr": "Website Builder Description"
       },
       "components": [
