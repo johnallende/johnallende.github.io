@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Reference.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -68,7 +68,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.2",
             "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1281.png",
               "width": 128,
               "active": true,
               "link": "index.html",
