@@ -520,17 +520,15 @@ h6,
 
 
 
-#header3-17 .mbr-section-title,
-#header3-17 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-17 H3 {
+#header2-1p .mbr-section-title {
   color: #000000;
   font-family: 'Bitter', serif;
 }
-#header3-17 SMALL {
-  color: #232323;
-  font-family: 'Oxygen', sans-serif;
+#header2-1p .mbr-section-text {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Bitter', serif;
+  text-align: left;
 }
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
