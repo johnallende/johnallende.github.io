@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1281.png",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -597,11 +597,11 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/3_h5f1ttXqY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/VoAgfj0jPHE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.2",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": true,
