@@ -520,6 +520,7 @@ h6,
 
 
 
+
 #header2-1p .mbr-section-title {
   color: #000000;
   font-family: 'Bitter', serif;
@@ -615,6 +616,9 @@ h6,
 #msg-box8-1j .mbr-section-title,
 #msg-box8-1j p {
   color: #fff;
+}
+#msg-box8-1j .mbr-section-title P {
+  font-family: 'Bitter', serif;
 }
 #header3-1k .mbr-section-title,
 #header3-1k .mbr-section-subtitle {
