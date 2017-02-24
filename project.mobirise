@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 62,
+    "uniqCompNum": 64,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1280.png",
               "width": 128,
               "active": true,
               "link": "index.html",
@@ -269,6 +269,20 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "20px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-1p",
           "_params": {
             "imageSize": "60",
@@ -314,21 +328,7 @@
           },
           "title": "GET TO KNOW ME",
           "text": "It pretty much all started early in life, as a younger child I found enjoyment in watching the same movies and playing the same games over and over again. Each time I would watch the same film I tried to look at specific details that I might have not caught the time prier and every time I played the same game I tried different routes to discover different content. I was becoming a very observant and curious character. Over a short period of time i realized that design and art were two major components that interested and spark my attention. Over a short period of time i realized that design and looking at specific details that I might have not caught the time prier... (continue)&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            },
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-size": "20px",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -595,11 +595,13 @@
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/3_h5f1ttXqY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.3",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showText": true,
@@ -759,6 +761,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 John Allende"
         }
       ]
     },
