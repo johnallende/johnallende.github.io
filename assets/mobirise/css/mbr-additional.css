@@ -432,6 +432,10 @@ h6,
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons2-m .mbr-section-title,
 #social-buttons2-m .btn-social {
   color: #232323;
