@@ -239,7 +239,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-john-allende-black-128x1281.png",
               "width": 128,
               "active": true,
               "link": "index.html",
