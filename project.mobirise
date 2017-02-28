@@ -60,7 +60,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/black-and-white-desktop-wallpaper-2000x1250.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -93,7 +93,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#cccccc",
+            "bgColor": "#9b9696",
             "showMeta": true
           },
           "title": "",
