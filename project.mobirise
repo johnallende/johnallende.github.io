@@ -93,7 +93,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#9b9696",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "",
