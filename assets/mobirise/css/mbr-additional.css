@@ -546,6 +546,10 @@ h6,
 #contacts5-1h STRONG {
   color: #000000;
 }
+#header3-1u .mbr-section-title,
+#header3-1u .mbr-section-subtitle {
+  text-align: center;
+}
 
 
 
