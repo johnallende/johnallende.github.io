@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Reference.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 67,
+    "uniqCompNum": 68,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -727,6 +727,26 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             },
@@ -778,7 +798,7 @@
           "_anchor": "header3-1k",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true
           },
@@ -1362,7 +1382,7 @@
           "_anchor": "header3-1l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true
           },
@@ -1812,7 +1832,7 @@
           "_anchor": "header3-1m",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true
           },
