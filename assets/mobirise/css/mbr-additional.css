@@ -819,6 +819,10 @@ h6,
 #footer1-1r P {
   color: #000000;
 }
+#header3-1w .mbr-section-title,
+#header3-1w .mbr-section-subtitle {
+  text-align: center;
+}
 
 
 
@@ -1024,6 +1028,10 @@ h6,
 }
 #contacts5-1h STRONG {
   color: #000000;
+}
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
 }
 #footer1-1r P {
   color: #000000;
