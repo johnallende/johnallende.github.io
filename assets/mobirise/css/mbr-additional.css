@@ -704,6 +704,7 @@ h6,
 
 
 
+
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -783,6 +784,15 @@ h6,
 }
 #header3-1l .mbr-section-title,
 #header3-1l .mbr-section-subtitle {
+  text-align: center;
+}
+#slider3-1y H2 {
+  color: #000000;
+  font-family: 'Bitter', serif;
+  text-align: center;
+}
+#header3-1z .mbr-section-title,
+#header3-1z .mbr-section-subtitle {
   text-align: center;
 }
 #contacts5-1h p,
