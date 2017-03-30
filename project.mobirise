@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 76,
+    "uniqCompNum": 77,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -252,6 +252,26 @@
           "meta": ""
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -432,6 +452,17 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "H3": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
           "_anchor": "msg-box1-22",
           "_params": {
             "paddingTop": "0",
@@ -455,18 +486,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/0i3LJJ_Qe0s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Intro</a>",
           "text": "",
-          "title": "INTRO FOR PATE",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            },
-            "H3": {
-              "color": "#000000",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            }
-          }
+          "title": "INTRO FOR PATE"
         }
       ]
     },

@@ -518,6 +518,10 @@ h6,
 #header3-23 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-24 .mbr-section-title,
+#header3-24 .mbr-section-subtitle {
+  text-align: center;
+}
 #footer1-1r P {
   color: #000000;
 }
