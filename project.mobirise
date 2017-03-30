@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Gallery.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1178,37 +1178,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/fixed-for-gallery-2-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fixed-for-gallery-2-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Illustrator",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stare-2000x1546-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stare-2000x1546.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Illustrator",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/helen-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/helen-2000x1545.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Illustrator",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fixed-for-real-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fixed-for-real-2000x1545.jpg",
-                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
