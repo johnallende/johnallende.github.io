@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 72,
+    "uniqCompNum": 76,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -232,6 +232,26 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">GALLERY/HW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"credentials.html\">Illustrator Certification</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reference.html\">REFERENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/u0ak2nl1g5o6l5y/Resume.pdf?dl=1\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>RESUME DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">RESUME DOWNLOAD</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-23",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -406,6 +426,47 @@
           },
           "title": "",
           "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-22",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/0i3LJJ_Qe0s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Intro</a>",
+          "text": "",
+          "title": "INTRO FOR PATE",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "H3": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
         }
       ]
     },
