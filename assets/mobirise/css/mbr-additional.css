@@ -16,7 +16,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -434,20 +433,10 @@ h6,
   text-align: center;
   font-family: 'Open Sans', sans-serif;
 }
-#header3-1t .mbr-section-title,
-#header3-1t .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box1-22 .btn {
+#msg-box1-26 H3 {
   font-family: 'Bitter', serif;
-}
-#msg-box1-22 H3 {
-  color: #000000;
-  font-family: 'Bitter', serif;
-}
-#header3-24 .mbr-section-title,
-#header3-24 .mbr-section-subtitle {
-  text-align: center;
+  font-size: 36px;
+  color: #ffffff;
 }
 #social-buttons2-m .mbr-section-title,
 #social-buttons2-m .btn-social {
@@ -457,10 +446,6 @@ h6,
   color: #000000;
   font-family: 'Bitter', serif;
   font-size: 46px;
-}
-#header3-23 .mbr-section-title,
-#header3-23 .mbr-section-subtitle {
-  text-align: center;
 }
 #contacts5-1h p,
 #contacts5-1h .list-group-text,
