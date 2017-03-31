@@ -84,6 +84,14 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-26",
           "_params": {
             "paddingTop": "1",
@@ -105,17 +113,9 @@
             "showText": false,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=0i3LJJ_Qe0s\" data-toolbar=\"-mbrBtnMove\">INTRO VIDEO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/TnUKI5ElvIA\" data-toolbar=\"-mbrBtnMove\">INTRO VIDEO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "INTRODUCTION VIDEO",
-          "_styles": {
-            "H3": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          }
+          "title": "INTRODUCTION VIDEO"
         },
         {
           "_styles": {
