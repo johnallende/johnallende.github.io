@@ -706,7 +706,6 @@ h6,
 
 
 
-
 #ext_menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -774,6 +773,10 @@ h6,
 #ext_menu-r .btn {
   font-family: 'Bitter', serif;
 }
+#header3-27 .mbr-section-title,
+#header3-27 .mbr-section-subtitle {
+  text-align: center;
+}
 #features4-1f .card-subtitle {
   color: #bcbcbc;
 }
@@ -783,15 +786,6 @@ h6,
 }
 #features4-1f P {
   font-family: 'Ubuntu', sans-serif;
-}
-#header3-1l .mbr-section-title,
-#header3-1l .mbr-section-subtitle {
-  text-align: center;
-}
-#slider3-1y H2 {
-  color: #000000;
-  font-family: 'Bitter', serif;
-  text-align: center;
 }
 #header3-1z .mbr-section-title,
 #header3-1z .mbr-section-subtitle {
