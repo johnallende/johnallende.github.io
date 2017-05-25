@@ -80,44 +80,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box1-26",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1190.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/TnUKI5ElvIA\" data-toolbar=\"-mbrBtnMove\">INTRO VIDEO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "INTRODUCTION VIDEO"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
@@ -1124,6 +1086,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fdxcbgfbfdbv-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fdxcbgfbfdbv-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }

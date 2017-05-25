@@ -15,7 +15,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -432,11 +431,6 @@ h6,
   color: #ffffff;
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-}
-#msg-box1-26 H3 {
-  font-family: 'Bitter', serif;
-  font-size: 36px;
-  color: #ffffff;
 }
 #social-buttons2-m .mbr-section-title,
 #social-buttons2-m .btn-social {
